@@ -3,8 +3,8 @@
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 #profile-web-page-url: @hamedvpns
 
-warp://162.159.195.170:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.195.170:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv4🇩🇪-1
+warp://162.159.195.170:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#ipv4&&detour=warp://162.159.195.170:928/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv4🇩🇪-1
 
-warp://162.159.192.189:2506/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.189:2506/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv4🇩🇪-2
+warp://162.159.192.189:2506/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#ipv4&&detour=warp://162.159.192.189:2506/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv4🇩🇪-2
 
-warp://[2606:4700:d0::1e55:5514:c50e:347d]:1010/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::1e55:5514:c50e:347d]:1010/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv6🇩🇪-3
+warp://[2606:4700:d0::1e55:5514:c50e:347d]:1010/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#ipv6&&detour=warp://[2606:4700:d0::1e55:5514:c50e:347d]:1010/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#HP-WoW-IPv6🇩🇪-3
